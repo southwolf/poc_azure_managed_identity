@@ -1,0 +1,1 @@
+# poc_azure_managed_identity
